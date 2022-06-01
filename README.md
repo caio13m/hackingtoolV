@@ -1,3 +1,5 @@
+**Fixed error DDos**
+
 ### All in One Hacking tool For Hackers🥇
 ![](https://img.shields.io/github/license/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
