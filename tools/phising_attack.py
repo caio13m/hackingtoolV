@@ -63,7 +63,7 @@ class Evilginx2(HackingTool):
 class ISeeYou(HackingTool):
     TITLE = "I-See_You(Get Location using phishing attack)"
     DESCRIPTION = "[!] ISeeYou is a tool to find Exact Location of Victom By" \
-                  " User SocialEngineering or Phishing Engagment..\n" \
+                  " User SocialEngineering or Phishing Engagement..\n" \
                   "[!] Users can expose their local servers to the Internet " \
                   "and decode the location coordinates by looking at the log file"
     INSTALL_COMMANDS = [
