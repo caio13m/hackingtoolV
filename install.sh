@@ -76,7 +76,7 @@ if [ $choice == 1 ]; then
 
     if [ -d "$INSTALL_DIR" ]; then
         echo "";
-        echo "[✔] Successfuly Installed !!! ";
+        echo "[✔] Successfully Installed !!! ";
         echo "";
         echo "";
         echo -e $ORANGE "		[+]+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[+]"
