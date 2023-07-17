@@ -1,4 +1,5 @@
 **Fixed error DDos**
+# THE STEPS TO USE THIS IS DIFERENT, **SEE LINE 211**
 
 ### All in One Hacking tool For Hackers🥇
 ![](https://img.shields.io/github/license/Z4nzu/hackingtool)
@@ -211,11 +212,11 @@
 
 #### This Tool Must Run As ROOT !!!
 
-    git clone https://github.com/Z4nzu/hackingtool.git
+    git clone https://github.com/Z4nzu/hackingtoolV.git
     
     chmod -R 755 hackingtool  
     
-    cd hackingtool
+    cd hackingtoolV
     
     sudo pip3 install -r requirement.txt
     
