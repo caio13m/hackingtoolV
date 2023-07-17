@@ -1,5 +1,5 @@
 **Fixed error DDos**
-# THE STEPS TO USE THIS IS DIFERENT, **SEE LINE 211**
+# THE STEPS TO USE THIS ARE DIFFERENT, **SEE LINE 211**
 
 ### All in One Hacking tool For Hackers🥇
 ![](https://img.shields.io/github/license/Z4nzu/hackingtool)
