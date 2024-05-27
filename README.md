@@ -1,5 +1,5 @@
 **Fixed DDos issue**
-# THE STEPS TO USE THIS ARE DIFFERENT, **SEE [LINE 211**](#installation-for-linux-)
+# THE STEPS TO USE THIS ARE DIFFERENT, **SEE [LINE 211](#installation-for-linux-)**
 
 ### All in One Hacking tool For Hackers🥇
 ![](https://img.shields.io/github/license/Z4nzu/hackingtool)
