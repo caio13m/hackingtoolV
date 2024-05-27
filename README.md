@@ -1,4 +1,4 @@
-**Fixed error DDos**
+**Fixed DDos issue**
 # THE STEPS TO USE THIS ARE DIFFERENT, **SEE LINE 211**
 
 ### All in One Hacking tool For Hackers🥇
